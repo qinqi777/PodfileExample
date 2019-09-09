@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (4.9.0)
+  - HandyJSON (5.0.0)
+  - IQKeyboardManagerSwift (6.4.1)
+  - LookinServer (0.9.4)
+  - PodfileExample (0.1.0)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - ZLPhotoBrowser (3.0.6):
+    - SDWebImage (~> 5.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON (= 5.0.0)
+  - IQKeyboardManagerSwift
+  - LookinServer
+  - PodfileExample (from `../`)
+  - SDCycleScrollView
+  - ZLPhotoBrowser (= 3.0.6)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - LookinServer
+    - SDCycleScrollView
+    - SDWebImage
+    - ZLPhotoBrowser
+
+EXTERNAL SOURCES:
+  PodfileExample:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  IQKeyboardManagerSwift: d2df660d0b8d64a15cb2537c9ff303213fa515b2
+  LookinServer: 54eb99921647bda4068ff8776d842285e2bf0adb
+  PodfileExample: 83093bb9a66951f00a083897e0aafd9d624d51a9
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  ZLPhotoBrowser: 8975b83f53dbcec1399ef8d1badffc0e09aa9422
+
+PODFILE CHECKSUM: 81d3da29133763eb348aeb6e767f146e29dbd0d7
+
+COCOAPODS: 1.7.4
